@@ -80,7 +80,7 @@ analysis(tran fields paramTime) ""
 analysis(tran fields paramValue) ""
 analysis(tran fields param_file) ""
 analysis(tran fields param_vec) nil
-analysis(tran fields stop) "50/VAR(\"FCLK\")"
+analysis(tran fields stop) "100/VAR(\"FCLK\")"
 analysis(tran fields tranNoiseMultiRuns) ""
 analysis(tran fields transtrobe) ""
 analysis(tran options FinalOpOtherParameters) ""
